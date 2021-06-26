@@ -1,2 +1,2 @@
-# -15.5-Cosine-Similarity
+# 15.5-Cosine-Similarity
  Case Study - Cosine Similarity
